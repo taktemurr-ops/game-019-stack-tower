@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:game_019_stack_tower/core/arcade.dart';
-import 'package:game_019_stack_tower/core/level_plan.dart';
+import 'package:studio_core/core/arcade.dart';
+import 'package:studio_core/core/level_plan.dart';
 import 'package:game_019_stack_tower/game/stack_engine.dart';
 import 'package:game_019_stack_tower/game/rules.dart';
 
